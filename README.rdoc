@@ -4,5 +4,5 @@ migrate database
  rake db:migrate
 open in web browser 	
  localhost:3000
-you good to go
+you're good to go !!
 	
